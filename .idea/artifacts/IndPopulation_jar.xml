@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IndPopulation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IndPopulation_jar</output-path>
+    <root id="archive" name="IndPopulation.jar">
+      <element id="module-output" name="IndPopulation" />
+      <element id="extracted-dir" path="$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.11/scala-library-2.11.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.11/scala-reflect-2.11.11.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
